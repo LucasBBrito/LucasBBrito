@@ -1,8 +1,12 @@
-<h1 align="center">Oi, eu sou o Lucas 👋</h1>
+<h1 align="center">
+  Oi! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> , eu sou o Lucas 
+</h1>
 
 ###
 
-<p align="center">Hi! my name is Lucas 👋</p>
+<p align="center">
+  Hi! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> my name is Lucas
+</p>
 
 ###
 
