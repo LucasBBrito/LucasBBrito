@@ -23,7 +23,7 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/lucasbbritodev" target="_blank">
+  <a href="https://www.linkedin.com/in/lucasbbritodev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Lucas%20barros&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=lucasbbrito8@gmail.com&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
